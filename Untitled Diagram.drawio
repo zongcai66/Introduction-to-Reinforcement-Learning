@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-05T23:02:39.910Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="ttdR0HQQdSa-WD_s4yye" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-05T23:05:08.657Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="mGIUyOqt3cw4zMqp11pV" version="24.2.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="844" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
           <mxGeometry x="170" y="290" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Find k-nearest neighbours" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="310" y="640" width="120" height="90" as="geometry" />
+          <mxGeometry x="414" y="640" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Replace Bulb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="310" width="120" height="40" as="geometry" />
@@ -79,28 +79,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sJofw-jmUaGOBElZEfz2-44" value="estimate_MI&lt;div&gt;Aggregation&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="430" y="621.5" width="90" height="40" as="geometry" />
+          <mxGeometry x="534" y="621.5" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sJofw-jmUaGOBElZEfz2-45" value="estimate_CE&lt;div&gt;Aggregation&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=15;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="708.5" width="90" height="40" as="geometry" />
+          <mxGeometry x="544" y="708.5" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sJofw-jmUaGOBElZEfz2-46" value="&lt;i&gt;Client k&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="39.36" y="610" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sJofw-jmUaGOBElZEfz2-48" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="676" as="sourcePoint" />
-            <mxPoint x="540" y="646" as="targetPoint" />
+            <mxPoint x="534" y="676" as="sourcePoint" />
+            <mxPoint x="644" y="646" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sJofw-jmUaGOBElZEfz2-49" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="696" as="sourcePoint" />
-            <mxPoint x="540" y="726" as="targetPoint" />
+            <mxPoint x="534" y="696" as="sourcePoint" />
+            <mxPoint x="644" y="726" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sJofw-jmUaGOBElZEfz2-51" value="&lt;i&gt;MI(k)&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="626" width="80" height="40" as="geometry" />
+          <mxGeometry x="644" y="626" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sJofw-jmUaGOBElZEfz2-52" value="neighbor client&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="110" y="518" width="100" height="30" as="geometry" />
@@ -109,7 +109,19 @@
           <mxGeometry x="118.08" y="800" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sJofw-jmUaGOBElZEfz2-54" value="&lt;i&gt;CE(k)&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="706" width="80" height="40" as="geometry" />
+          <mxGeometry x="644" y="706" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sJofw-jmUaGOBElZEfz2-56" value="Gradient descent&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="304" y="640" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sJofw-jmUaGOBElZEfz2-57" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=19;endSize=8.52;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="684.5" as="sourcePoint" />
+            <mxPoint x="410" y="685" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sJofw-jmUaGOBElZEfz2-58" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: nowrap; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration: none; display: inline !important; float: none;&quot;&gt;Feature extraction&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="708.5" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
